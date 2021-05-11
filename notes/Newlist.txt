@@ -1,4 +1,36 @@
 People
+
+	2 sections: Current members + Former members
+
+
+
+		portrait
+		Name
+		Jobingroup
+		Institute
+
+		Example
+			assets/portraits/ACH.jpg \href{http://www.damtp.cam.ac.uk/research/afha/anders/}
+			Dr Anders Hansen \href{http://www.damtp.cam.ac.uk/research/afha/anders/}
+			Head of Group
+			Faculty of Mathematics, University of Cambridge
+
+
+			assets/portraits/PY.png \href{https://parleyyang.github.io/}
+			Parley Yang \href{https://parleyyang.github.io/}
+			PhD Student
+			Faculty of Mathematics, University of Cambridge
+			Previous institute: Department of Statistcs, University of Oxford
+
+			assets/portraits/clarice.jpg \href{https://cmhsp2.github.io/}
+			Dr Clarice Poon \href{https://cmhsp2.github.io/}
+			Former PhD student
+			University of Bath
+
+
+
+	[FYI: http://www.damtp.cam.ac.uk/research/afha/people.html]
+
 	Current PhDs:
 
 	7. Laura Thesing (graduating 2021)
@@ -11,14 +43,38 @@ People
 
 
 	Postdocs and research fellows:
-	Alexander Bastounis (2019-2021, PhD: University of Cambridge), Vegard Antun (2020-, PhD: University of Oslo).
+
+	Alexander Bastounis (2019-2021, PhD: University of Cambridge), 
+	Vegard Antun (2020-, PhD: University of Oslo).
 	Matt Colbrook (graduated 2020)
 
 	Former postdocs:
+
 	1. Jonathan Ben-Artzi ( 2011-2014, PhD: Brown University), 2. Bogdan Roman ( 2013-2016, 2016-2019, PhD: University of Cambridge), 3. Priscilla Canizares (2015-2016, PhD: Autonomous University of Barcelona), 4. Milana Gataric (2015-2016, PhD: University of Cambridge), 5. Francesco Renna (2016-2018, PhD: University of Padova), 
 
 	Former PhDs:
+
 	Clarice Poon (graduated 2015), 2. Milana Gataric (graduated 2016), 3. Alexander Jones (graduated 2016)
 
+Contact
 
-ASAP.
+	Same background (same css)
+
+	Content: 
+	Applied Functional and Harmonic Analysis, University of Cambridge,
+	Centre for Mathematical Sciences, Pavilion F,
+	Wilberforce Road, Cambridge CB3 0WA,
+	United Kingdom
+	Admin contact: Virginia Mullins
+	Email: pavfsec@damtp.cam.ac.uk
+	Tel: +44 (0)1223 760394
+
+	[FYI: http://www.damtp.cam.ac.uk/research/afha/]
+	
+
+Related Institutes
+	Same background (same css)
+
+	Don't put funding institutes
+	Put related institutes as CCIMI & OPRG
+
