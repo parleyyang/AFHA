@@ -1,6 +1,8 @@
 body {
     margin: 0;
     padding: 0;
+    color: white;
+    font-family: "Crete Round", serif;
     background: rgb(56, 126, 208);
   }
   
