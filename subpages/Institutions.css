@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  background: rgb(56, 126, 208);
+  background: white;
 }
 
 h1 {
@@ -9,18 +9,19 @@ h1 {
   border-bottom: 2px solid white;
   padding-bottom: 8px;
   margin-top: 0px;
-  color: white;
+  color: black;
 }
 
 h2 {
   font-family: "Crete Round", serif;
-  color: darkslategrey;
+    color: black;
+
   margin-top: 25px;
 }
 
 h3 {
   font-family: "Raleway", sans-serif;
-  color: white;
+  color: black;
   padding: 0px;
   margin: 0px;
   font-size: 16px;
@@ -28,7 +29,7 @@ h3 {
 
 h4 {
   font-family: "Raleway", sans-serif;
-  color: white;
+  color: black;
   padding: 0px;
   margin: 0px;
   font-size: 12px;
@@ -36,7 +37,7 @@ h4 {
 
 p {
   font-family: "Raleway", sans-serif;
-  color: white;
+  color: black;
   padding: 0px;
   margin: 0px;
   font-size: 12px;
@@ -103,7 +104,7 @@ p {
 nav {
   width: 105%;
   height: 80px;
-  background: rgb(0, 0, 0, 0.1);
+  background: black;
   position: fixed;
   color: white;
   bottom: 0px;
