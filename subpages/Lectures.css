@@ -1,0 +1,322 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: rgb(56, 126, 208);
+  }
+  
+  h1 {
+    font-family: "Crete Round", serif;
+    border-bottom: 2px solid black;
+    padding-bottom: 8px;
+  }
+  
+  h2 {
+    font-family: "Crete Round", serif;
+    font-size: 30px;
+  }
+  
+  h3 {
+    font-family: "Raleway", sans-serif;
+    padding: 0px;
+    margin: 0px;
+    font-size: 16px;
+  }
+  
+  h4 {
+    font-family: "Raleway", sans-serif;
+    padding: 0px;
+    margin: 0px;
+    font-size: 12px;
+  }
+  
+  p {
+    font-family: "Raleway", sans-serif;
+    padding: 0px;
+    margin: 0px;
+    font-size: 16px;
+  }
+  
+  .container {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    padding: 30px 12em;
+    box-sizing: border-box;
+    justify-content: center;
+  }
+
+  
+  .hero {
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .light {
+    background: rgb(56, 126, 208);
+    background: linear-gradient(
+      90deg,
+      rgba(56, 126, 208, 1) 0%,
+      rgba(0, 203, 250, 1) 100%
+    );
+  }
+
+  .vlight {
+    color: black;
+    background: white;
+  }
+
+  .vlight h1 {
+    font-family: "Crete Round", serif;
+    color: black;
+    border-bottom: 2px solid black;
+    padding-bottom: 8px;
+
+  }
+
+  .vlight h2 {
+    font-family: "Crete Round", serif;
+    border-bottom: 2px solid white;
+    padding-bottom: 8px;
+
+  }
+  
+  .hero-image {
+    width: 300px;
+    padding: 36px;
+    border-bottom: 2px solid rgba(256, 256, 256, 0.3);
+  }
+  
+  .dark {
+    background: black;
+  }
+
+  .dark h1 {
+        font-family: "Crete Round", serif;
+        color: white;
+        border-bottom: 2px solid white;
+        padding-bottom: 8px;
+  }
+
+  .dark p {
+    font-family: "Raleway", sans-serif;
+    color: white;
+    padding-bottom: 8px;
+
+  }
+
+  .dark h2 {
+    font-family: "Crete Round", serif;
+    color: white;
+    padding-bottom: 8px;
+  }
+  
+  .row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+  
+  .text-block-wide {
+    padding: 8px;
+    width: 100%;
+  }
+  
+  .text-block {
+    padding: 8px;
+    width: 200px;
+  }
+  
+  .menubutton {
+    font-family: "Crete Round", serif;
+    color: white;
+    text-decoration: none;
+  }
+  
+  .menubutton::before {
+    content: "";
+    position: absolute;
+    color: white;
+    overflow: hidden;
+    transition: 0.5s;
+  }
+  
+  .menubutton:hover {
+    color: rgb(177, 193, 211);
+    width: 100%;
+    transform-origin: right;
+    transition: 0.5s;
+  }
+  
+  nav {
+    width: 105%;
+    height: 80px;
+    background: rgb(0, 0, 0, 0.1);
+    position: fixed;
+    color: white;
+    bottom: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  nav h2 {
+    padding: 0px 30px;
+    font-size: 23px;
+  }
+  
+  .nav-image {
+    height: 45px;
+    position: fixed;
+    left: 20%;
+    bottom: 1%;
+  }
+  
+  .dark h1 {
+    color: white;
+  }
+  
+  .items {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+  
+  
+  .date {
+    background-color: rgba(0, 203, 250, 1);
+    font-family: "Crete Round", sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 5%;
+    min-width: 16%;
+    max-width: 16%;
+    text-align: center;
+    font-weight: bold;
+  }
+  
+  .date {
+    font-size: 2em;
+  }
+  
+  .description {
+    display: flex;
+    flex-direction: column;
+    background: white;
+    color: black;
+    padding: 2em 0;
+  }
+  
+  .container h1 {
+    font-size: 2.5em;
+  }
+  
+  .description h2 {
+    margin-top: 0;
+    color: rgba(0, 203, 250, 1);
+    font-size: 2em;
+  }
+  
+  .description p {
+    margin: 0.5em 0;
+  }
+  
+  .description span {
+    font-family: "Raleway", sans-serif;
+    margin: 0.5em 0;
+    font-weight: bold;
+  }
+  
+  .description a {
+    color: rgba(0, 203, 250, 1);
+  }
+  
+  .logo {
+    width: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 1em;
+    background: white;
+  }
+  
+  .logo img {
+    width: 10em;
+    height: 10em;
+    margin: 0;
+  }
+
+  
+  /* Container Light */
+  .light h1 {
+    border-bottom: 2px solid black;
+  }
+  
+  .light .date {
+    background: black;
+    color: white;
+  }
+
+  .bodylinkhover {
+    font-family: "Raleway", serif;
+    color: blue;
+    text-decoration: underline;
+  }
+  
+  .bodylinkhover::before {
+    content: "";
+    position: absolute;
+    color: grey;
+    overflow: hidden;
+    transition: 0.5s;
+  }
+  
+  .bodylinkhover:hover {
+    color: rgb(181, 178, 178);
+    width: 100%;
+    transform-origin: right;
+    transition: 0.5s;
+  }
+  
+  .textmenu .dropdown {
+    position: absolute;
+    display: inline-block;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    bottom: 60px;
+    background-color: white;
+    width: 145px;
+    margin-left: 1.6%;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    font-family: "Crete Round", serif;
+  }
+  
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  /* Change color of dropdown links on hover */
+  .dropdown-content a:hover {
+    background-color: rgb(177, 193, 211);
+    transition: 0.3s;
+  }
+  
+  /* Show the dropdown menu on hover */
+  .dropdown:hover .dropdown-content {
+    display: block;
+    transition: 1s;
+  }
+
+ 
