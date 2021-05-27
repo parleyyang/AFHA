@@ -1,0 +1,7 @@
+#RewriteEngine On
+
+#RewriteCond %{REQUEST_URI} /user/abr28 [NC]
+#RewriteRule ^/(.*)$ www.dampt.cam.ac.uk/asdsa/$1 [R]
+#RewriteRule /user/abr28/(.*) /research/afha/people/bogdan/$1 [L]
+
+#RedirectPermanent /user/abr28 /research/afha/bogdan

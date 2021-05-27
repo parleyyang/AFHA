@@ -1,0 +1,166 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<!-- remove next line if your web server adds charset-->
+<link rel="stylesheet" href="../../global/style/layout.css" type="text/css" media="all" />
+<link rel="stylesheet" href="../../global/style/print.css" type="text/css" media="print" />
+<link rel="stylesheet" href="../../global/style/rssfeed.css" type="text/css" media="all" />
+<link rel="stylesheet" href="../../global/style/purecontent.css" type="text/css" media="all" />
+<link rel="stylesheet" href="../../global/style/local.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="../../style/afha.css" type="text/css" />
+<link rel="Shortcut Icon" href="../../../../favicon.ico" />
+<!--[if IE 6]><link rel="stylesheet" href="/global/style/ie6.css" type="text/css" media="screen" /><script type="text/javascript" src="/global/js/minmax.js"></script><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" href="/global/style/ie7.css" type="text/css" media="screen" /><![endif]-->
+			
+<title>Course: Numerical Analysis - Applied Functional and Harmonic Analysis</title>
+<meta name="description" content="Department of Applied Mathematics and Theoretical Physics, University of Cambridge." />
+<meta name="keywords" content="Cambridge University, Mathematics, Applied Mathematics, Theoretical Physics, DAMTP" />
+<style type="text/css" title="text/css" media="all">
+body {background: #699;}
+div#header {border-bottom: 3px solid #006;}
+ul#site-info {border-top: 2px solid #006;}
+</style>
+<script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-44632599-1', 'cam.ac.uk');
+	ga('send', 'pageview');
+</script>
+</head>
+
+<!--<body class='two-col dept' onload='setFocus()'>-->
+<body class='two-col dept'>
+
+<div id="skip"> <a href="cs.1.html#skip-content" accesskey="2">Skip to content</a> </div>
+
+<div id="header">
+
+  <div id="branding"><a href="http://www.cam.ac.uk/" accesskey="1">
+    <img src="../../global/images/uoc.png" alt="University of Cambridge" /></a>
+        <a href="http://www.damtp.cam.ac.uk/"><img src="../../global/images/damtp.png" alt="Department of Applied Mathematics and Theoretical Physics" /></a>
+      </div>
+
+  <div id="site-search">
+       <form action="http://search.cam.ac.uk/web" method="get">
+         <fieldset>
+           <label for="search-term">Search</label>
+           <select name="tag" id="search-tag">
+              <option value="afha" selected="selected" >AFHA</option>
+              <option value="DAMTP">DAMTP</option>
+              <option value="mathsall">All Maths</option>
+           </select>
+           <span style="white-space: nowrap; display: inline-block;">
+         <input name="query" type="text" id="search-term" accesskey="4" value="" />
+           <input type="hidden" name="inst" value="DAMTP" />
+           <input id="search-button" src="../../global/images/button-search.gif" value="Search" alt="Search" title="Search" type="image" />
+       </span>
+         </fieldset>
+       </form>
+    <ul><!-- this is marked up in reverse order as the list is floated right -->
+    <li class="last"><a href="http://www.damtp.cam.ac.uk/people/az.html">Email &amp; phone list</a></li>
+    <li><a href="http://www.damtp.cam.ac.uk/about/contact.html">Contact us</a></li>
+    <li><a href="http://www.cam.ac.uk/global/az.html">A&ndash;Z</a></li>
+    </ul>
+  </div><!-- #site-search ends -->
+
+  <ul id='nav-breadcrumb'><li class="first"><a href="http://www.damtp.cam.ac.uk/">DAMTP</a></li><li><a href="http://www.damtp.cam.ac.uk/research/">Research</a></li><li><a href="../index.html">AFHA</a></li><li><a href="../lectures.html">Lecture series</a></li><li class="last">Course: Numerical Analysis</li></ul>
+
+</div>
+
+<div id="container"> <a name="skip-content" id="skip-content"></a>
+
+
+		<ul id="nav-primary">
+			<li class="researchafha"><a class="researchafha" href="../index.html">Home</a></li>
+			<li class="researchafhapeople"><a class="researchafhapeople" href="../people.html">People</a></li>
+			<li class="researchafhalectures selected"><a class="researchafhalectures" href="../lectures.html">Lectures</a><ul class="child">
+		<li><a href="trends2018/index.html">Trends in mathematics of information</a></li>
+		<li><a href="cs.1.html">Contemporary sampling and compressed sensing</a></li>
+		<li><a href="uoo.1.html">University of Oslo lectures series</a></li>
+</ul></li>
+			<li class="researchafhacode"><a class="researchafhacode" href="../code.html">Code</a></li>
+			<li class="researchafhaworkshops"><a class="researchafhaworkshops" href="../workshops.html">Workshops</a></li>
+			<li class="researchafhaprojects"><a class="researchafhaprojects" href="../projects.html">PhD&nbsp;projects</a></li>
+		</ul>	
+<div id="content">
+<div id="content-primary">
+<div class="afha-logo"><a title="Go to the AFHA group's home"
+	href="http://www.damtp.cam.ac.uk/research/afha"><img src="../../images/logo-web3.png" alt="Applied Functional and Harmonic Analysis (AFHA)" /></a></div>
+<h1>Numerical Analysis <em>(Part II course)</em></h1>
+
+<p><em>Lecturer:</em> <a href="../anders.html">Anders Hansen</a> <br />
+  <em>Time, location:</em> Online</p>
+
+<p>This is a Part II course in numerical analysis given in Michaelmas term 2020 that contains 24 lectures. </p>
+<p><em>References:</em> The course will be based on notes and slides. Additional reading:<br />
+  <a href="http://www.damtp.cam.ac.uk/research/afha/anders/teaching/CH1_EK.pdf">Compressed Sensing</a> (Eldar, Kutyniok), CUP 2012,<br />
+  <a href="http://www.cis.pku.edu.cn/faculty/vision/zlin/A%20Mathematical%20Introduction%20to%20Compressive%20Sensing.pdf">A Mathematical Introduction to Compressive Sensing</a> (Foucart, Rauhut), Birkhauser 2014,</p>
+
+<p></p>
+<p></p>
+<p></p>
+<ul class="afha-course">
+  <li>
+    <p><b>Week 1.</b></p>
+    <p>Lecture 1: <a href="http://www.damtp.cam.ac.uk/research/afha/lectures/Part_II_NumAn/Lect_Intro.pdf">Intro Slides</a>,  <a href="http://www.damtp.cam.ac.uk/research/afha/lectures/Part_II_NumAn/Lect_Intro.pdf">Intro Slides</a>
+    
+    
+    <br />
+      <em>Reading list</em>: (1) Ch1 in FH, <a href="http://www.sms.cam.ac.uk/collection/1117766/">LMS lecture series by Emmanuel 				Candes</a>, and &quot;On asymptotic structure in compressed sensing&quot;</p></li>
+  <li>
+    <p><b>Week 2: Basic compressed sensing: RIP, null space property, uniform recovery, sparsity bases, lower bounds on measurements<br />
+    </b></p>
+    Lecture 1: <a href="http://www.damtp.cam.ac.uk/research/afha/people/anders/teaching/Comp_Sens_Course2015_Lect1.pdf">Slides</a><br />
+    Lecture 2: <a href="http://www.damtp.cam.ac.uk/research/afha/people/anders/teaching/Comp_Sens_Course2015_Lect2.pdf">Slides</a><br />
+    <em>Reading list</em>: Ch1 in EK. For discussions on random Bernoulli and Gaussian matrices, see Chapter 9 of FR.  For discussions on wavelets, see Chapter 6 and 9 (linear and non-linear approximation with wavelet) in &quot;A wavelet tour of signal processing&quot; by Stephane Mallat.  </li>
+  <li>
+    <p><b>Week 3: How to make the world sparse: Wavelets, curvelets, contourlets and shearlets<br />
+    </b></p>
+    Lecture 3: <a href="http://www.damtp.cam.ac.uk/research/afha/people/anders/teaching/Comp_Sens_Course2015_Lect3.pdf">Slides</a><br />
+    Lecture 4: <a href="http://www.damtp.cam.ac.uk/research/afha/people/anders/teaching/Comp_Sens_Course2015_Lect4.pdf">Slides</a><br />
+    <em>Reading list</em>: Chapter 6 and 9 in &quot;A wavelet tour of signal processing&quot; by Stephane Mallat. Note that this book also has a section on curvelets.</li>
+  <li>
+    <p><b>Week 4: Welcome to the world of multilevel/variable density sampling<br />
+    </b></p>
+    Lecture 5: <a href="http://www.damtp.cam.ac.uk/research/afha/people/anders/teaching/Comp_Sens_Course2015_Lect5.pdf">Slides</a><br />
+    Lecture 6: <a href="http://www.damtp.cam.ac.uk/research/afha/people/anders/teaching/Comp_Sens_Course2015_Lect6.pdf">Slides</a><br />
+    <em>Reading list</em>: Section 4 of <a href="../anders/GS_Inverse_BookChpt_AIEP_6.pdf"><em>Generalized sampling: stable reconstructions, inverse problems and  compressed sensing over the continuum</em></a> and <a href="../anders/Book_chapter19.pdf"><em>The quest for optimal sampling: computationally efficient, structure-exploiting measurements for compressed sensing <br />
+  </em></a></li>
+  <li>
+    <p><b>Week 5: Magnetic Resonance Imaging and the art of discretizing analog problems<br />
+    </b></p>
+    Lecture 6: <a href="http://www.damtp.cam.ac.uk/research/afha/people/anders/teaching/Comp_Sens_Course2015_Lect6.pdf">Slides</a><br />
+    Lecture 7: <a href="http://www.damtp.cam.ac.uk/research/afha/people/anders/teaching/Comp_Sens_Course2015_Lect7.pdf">Slides</a><br />
+    <em>Reading list</em>: Section 4 of <a href="../anders/GS_Inverse_BookChpt_AIEP_6.pdf"><em>Generalized sampling: stable reconstructions, inverse problems and  compressed sensing over the continuum</em></a> and <a href="../anders/Book_chapter19.pdf"><em>The quest for optimal sampling: computationally efficient, structure-exploiting measurements for compressed sensing </em></a></li>
+  <li>
+    <p><b>Week 6: Fluorescence microscopy and Total Variation techniques<br />
+    </b></p>
+    Lecture&nbsp; : Numerical examples session<br />
+    Lecture 8: <a href="http://www.damtp.cam.ac.uk/research/afha/people/anders/teaching/Comp_Sens_Course2015_Lect10.pdf">Slides</a><br />
+    <em>Reading list</em>:<a href="http://www.damtp.cam.ac.uk/user/cmhsp2/tv_revised.pdf"><em>Total variation paper by Clarice Poon<br />
+  </em></a></li>
+  <li>
+    <p><b>Week 7: Electron Microscopy and Generalized Sampling<br />
+    </b></p>
+    Lecture : Electron microscopy (by Rowan Leary) <a href="http://www.damtp.cam.ac.uk/research/afha/people/anders/teaching/Rowan_Leary_CSEM_seminar_2015_web.pdf">Slides</a><br />
+    Lecture 9: <a href="http://www.damtp.cam.ac.uk/research/afha/people/anders/teaching/Comp_Sens_Course2015_Lect11.pdf">Slides</a><br />
+    <em>Reading list</em>: <a href="../anders/GS_Inverse_BookChpt_AIEP_6.pdf"><em>Generalized sampling: stable reconstructions, inverse problems and  compressed sensing over the continuum</em></a> and <a href="http://bigwww.epfl.ch/publications/unser0001.pdf"><em>Sampling 50 years after Shannon </em></a></li>
+</ul>
+<!-- Start of pure append -->
+        </div>
+      </div>
+      <ul id="site-info">
+        <li class="copy">
+	  &copy; Applied Functional and Harmonic Analysis, Centre for Mathematical Sciences, Wilberforce Road, Cambridge CB3 0WA.<br/>
+          Page last saved: 7th March 2016.
+          <a href="../contact/index.html">Contact Us</a>
+	</li>
+        <li class="link last">
+	  <a href="http://www.damtp.cam.ac.uk/about/privacy.html">Privacy</a>
+	</li>
+      </ul>
+    </div>
+  </body>
+</html>

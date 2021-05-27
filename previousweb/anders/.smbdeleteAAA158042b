@@ -1,0 +1,426 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<!-- remove next line if your web server adds charset-->
+<link rel="stylesheet" href="../global/style/layout.css" type="text/css" media="all" />
+<link rel="stylesheet" href="../global/style/print.css" type="text/css" media="print" />
+<link rel="stylesheet" href="../global/style/rssfeed.css" type="text/css" media="all" />
+<link rel="stylesheet" href="../global/style/purecontent.css" type="text/css" media="all" />
+<link rel="stylesheet" href="../global/style/local.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="../style/afha.css" type="text/css" />
+<link rel="Shortcut Icon" href="../../../favicon.ico" />
+<!--[if IE 6]><link rel="stylesheet" href="/global/style/ie6.css" type="text/css" media="screen" /><script type="text/javascript" src="/global/js/minmax.js"></script><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" href="/global/style/ie7.css" type="text/css" media="screen" /><![endif]-->
+			
+<title>Anders Hansen - Applied Functional and Harmonic Analysis</title>
+<meta name="description" content="Department of Applied Mathematics and Theoretical Physics, University of Cambridge." />
+<meta name="keywords" content="Cambridge University, Mathematics, Applied Mathematics, Theoretical Physics, DAMTP" />
+<style type="text/css" title="text/css" media="all">
+body {background: #699;}
+div#header {border-bottom: 3px solid #006;}
+ul#site-info {border-top: 2px solid #006;}
+</style>
+<script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-44632599-1', 'cam.ac.uk');
+	ga('send', 'pageview');
+</script>
+</head>
+
+<!--<body class='two-col dept' onload='setFocus()'>-->
+<body class='two-col dept'>
+
+<div id="skip"> <a href="index.html#skip-content" accesskey="2">Skip to content</a> </div>
+
+<div id="header">
+
+  <div id="branding"><a href="http://www.cam.ac.uk/" accesskey="1">
+    <img src="../global/images/uoc.png" alt="University of Cambridge" /></a>
+        <a href="http://www.damtp.cam.ac.uk/"><img src="../global/images/damtp.png" alt="Department of Applied Mathematics and Theoretical Physics" /></a>
+      </div>
+
+  <div id="site-search">
+       <form action="http://search.cam.ac.uk/web" method="get">
+         <fieldset>
+           <label for="search-term">Search</label>
+           <select name="tag" id="search-tag">
+              <option value="afha" selected="selected" >AFHA</option>
+              <option value="DAMTP">DAMTP</option>
+              <option value="mathsall">All Maths</option>
+           </select>
+           <span style="white-space: nowrap; display: inline-block;">
+         <input name="query" type="text" id="search-term" accesskey="4" value="" />
+           <input type="hidden" name="inst" value="DAMTP" />
+           <input id="search-button" src="../global/images/button-search.gif" value="Search" alt="Search" title="Search" type="image" />
+       </span>
+         </fieldset>
+       </form>
+    <ul><!-- this is marked up in reverse order as the list is floated right -->
+    <li class="last"><a href="http://www.damtp.cam.ac.uk/people/az.html">Email &amp; phone list</a></li>
+    <li><a href="http://www.damtp.cam.ac.uk/about/contact.html">Contact us</a></li>
+    <li><a href="http://www.cam.ac.uk/global/az.html">A&ndash;Z</a></li>
+    </ul>
+  </div><!-- #site-search ends -->
+
+  <ul id='nav-breadcrumb'><li class="first"><a href="http://www.damtp.cam.ac.uk/">DAMTP</a></li><li><a href="http://www.damtp.cam.ac.uk/research/">Research</a></li><li><a href="../index.html">AFHA</a></li></ul>
+
+</div>
+
+<div id="container"> <a name="skip-content" id="skip-content"></a>
+
+
+		<ul id="nav-primary">
+			<li class="researchafha selected"><a class="researchafha" href="../index.html">Home</a></li>
+			<li class="researchafhapeople"><a class="researchafhapeople" href="../people.html">People</a></li>
+			<li class="researchafhalectures"><a class="researchafhalectures" href="../lectures.html">Lectures</a></li>
+			<li class="researchafhacode"><a class="researchafhacode" href="../code.html">Code</a></li>
+			<li class="researchafhaworkshops"><a class="researchafhaworkshops" href="../workshops.html">Workshops</a></li>
+			<li class="researchafhaprojects"><a class="researchafhaprojects" href="../projects.html">PhD&nbsp;projects</a></li>
+		</ul>	
+<div id="content">
+<div id="content-primary">
+<div class="afha-logo"><a title="Go to the AFHA group's home"
+	href="http://www.damtp.cam.ac.uk/research/afha"><img src="../images/logo-web3.png" alt="Applied Functional and Harmonic Analysis (AFHA)" /></a></div>
+<h1>Dr Anders Hansen</h1>
+
+<div class="afha-member-info clearfix"><img src="anders.jpg" alt="Anders" style="margin-right: 1.5em;" class="left" />
+<p>Anders leads the <a href="http://www.damtp.cam.ac.uk/research/afha">Applied Functional and Harmonic 		Analysis</a> group within the 	<a href="http://www.maths.cam.ac.uk/postgrad/cca/">Cambridge Centre for Analysis</a> at  	<a href="http://www.damtp.cam.ac.uk/">DAMTP</a>. 	He is a Reader (Associate Professor) in mathematics&nbsp; at DAMTP, <a href="http://www.mn.uio.no/math/english/people/aca/anderch/">Professor of Mathematics at the University of Oslo</a>, a Royal Society University Research Fellow and also a 	Fellow of <a href="http://www.pet.cam.ac.uk">Peterhouse</a>.</p>
+<p><em>Email:</em> ach70@cam.ac.uk     <br />
+<em>Tel:</em> +44 1223 760403     <br />
+<em>Office:</em> F2.01</p>
+<p><a href="CV_Dec_2018.pdf">Resume</a></p>
+</div>
+
+<h2></h2>
+
+
+<h2>Upcoming and Recent Events</h2>
+
+<ol>
+<li>Organizing the workshop <em><a href="https://aimath.org/workshops/upcoming/compproofs/">Computational mathematics in computer assisted proofs </a> &nbsp;(Sept 12-16, 2022)</em> together with <em><a href="https://www.math.princeton.edu/people/charles-fefferman">Charles Fefferman </a></em> and  <em><a href="https://www.math.uci.edu/~szhitomi/">Svetlana Jitomirskaya. </a></em> </li>
+
+<li>Speaking (online) at the <em><a href="https://sites.google.com/view/oneworldimagine">One World IMAGing and INvErse problems (IMAGINE) seminar </a>&nbsp;(Feb 17, 2021). </a></em></li>
+
+<li>Speaking (online) at the <em><a href="https://www.gssi.it/seminars/seminars-and-events-2021/item/11902-math-colloquia-on-the-foundations-of-computational-mathematics-smale-s-18th-problem-and-the-potential-limits-of-ai">Gran Sasso Science Institute </a>&nbsp;(Jan 28, 2021). </a></em></li>
+
+<li>Speaking (online) at <em><a href="https://www.meetup.com/xai-explaining-what-goes-on-inside-dnn-ai/events/273776957/">XAI: Explaining what goes on inside DNN/AI </a>&nbsp;(Oct 20, 2020). </a></em></li>
+
+
+<li>Speaking (online) at the <em><a href="https://www.dresden-science-calendar.de/calendar/en/detail/16888">Max Planck Institute of Molecular Cell Biology and Genetics </a>&nbsp;(Sept 24, 2020). </a></em></li>
+
+
+
+<li>Speaking (online) at the <em><a href="https://mathml2020.github.io">Mathematics of Machine Learning,
+LMS-Bath Symposium </a>&nbsp;(Aug 6, 2020). <em><a href="https://drive.google.com/file/d/17HqRWtywaBqr2h4RyEEzACuVzHHdhDbg/view"> Watch the talk. </a></em></li>
+
+<li>Speaking (online) at the <em><a href="https://www.oneworldml.org/past-events">One World Seminar Series on the 
+Mathematics of Machine Learning </a>&nbsp;(July 5, 2020). <em><a href="https://www.youtube.com/watch?v=lsbzejXvvoM"> Watch the talk. </a></em></li>
+
+<li>Speaking at the <em><a href="https://math.umn.edu/news-events/current-series/Applied-and-Computational-Math-Colloquium">University of Minnesota, Applied and Computational Math Colloquium </a>&nbsp;(Feb. 3 2020)</em></li>
+		<li>Invited speaker at&nbsp;<span class="subheading"><a href="https://www.birs.ca/events/2019/5-day-workshops/19w5061"><i>Computational Harmonic Analysis and Data Science, Banff International Research Station (Nov 2019)</i></a></span><em>.</em></li>
+		<li>Speaking at <em><a href="https://memento.epfl.ch/event/imaging-in-the-age-of-machine-learning/">EPFL, Imaging in the Age of Machine Learning </a></em>  (Oct 25, 2019)</li>
+		<li style="text-align: start;">Speaking at the <em><a href="https://www.mathematics.pitt.edu/content/non-computable-problems-computer-assisted-proofs-why-foundations-computations-may-interest">University of Pittsburgh, Algebra-combinatorics-geometry seminar </a></em> (Sept 26, 2019)</li>
+		<li>Invited speaker at <span class="subheading"><a href="http://anarm.dima.unige.it/genova2019/"><i>Workshop on Harmonic analysis and&nbsp;Machine Learning (Sept 2019)</i></a></span><em>.</em></li>
+		<li>Invited speaker at&nbsp;<span class="subheading"><a href="https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=19341"><i>Algorithms and Complexity for Continuous Problems, Dagstuhl (Aug 2019)</i></a></span><em>.</em></li>
+		<li>Plenary speaker at&nbsp;<span class="subheading"><a href="http://www.nasonline.org/programs/nas-colloquia/completed_colloquia/science-of-deep-learning.html"><i>National Academy of Sciences, Arthur M. Sackler&nbsp;Colloquim: The Science of Deep Learning, Washington D.C. (March 2019)</i></a></span><em>.</em></li>
+		<li>Speaking at <em><a href="http://www3.imperial.ac.uk/newsandeventspggrp/imperialcollege/naturalsciences/mathematics/imperial-ucl-numerics-seminar/eventssummary/event_16-1-2019-14-28-23">Imperial College/University College London, Numerical Analysis Semina</a>r&nbsp;(Feb. 20 2019)</em></li>
+		<li>Invited speaker at <em><span class="subheading"><a href="https://imaging-in-paris.github.io/semester2019/workshop1prog/">Variational methods and optimization in imaging, Institut Henri&nbsp;</a><em style="caret-color: rgb(51, 51, 51); color: rgb(51, 51, 51);"><em><a href="https://sites.google.com/site/spoihp/">Poincar&eacute;</a>&nbsp;</em></em><a href="https://www.hcm.uni-bonn.de/events/eventpages/2018/high-dimensions-2018/">(Feb. 2019)</a></span></em><em>.</em></li>
+		<li>Speaking at Imperial College, Pure Analysis Seminar (Jan. 10 2019).</li>
+		
+		
+</ol>
+
+<h2>Prizes and Awards</h2>
+
+<p>1. <a href="https://en.wikipedia.org/wiki/Whitehead_Prize" style="border-bottom-color: rgb(187, 187, 187); background-color: rgb(247, 247, 247);">Whitehead Prize 2019</a>.</p>
+<p>2.&nbsp;<a href="https://www.ima.umn.edu/press-room/ima-prize-winner-2018" style="border-bottom-color: rgb(187, 187, 187); background-color: rgb(247, 247, 247);">2018 IMA Prize in Mathematics and Applications</a>.</p>
+<p>3.<a href="https://en.wikipedia.org/wiki/Philip_Leverhulme_Prize">&nbsp;Leverhulme Prize in Mathematics and Statistics 2017</a>.</p>
+<p>4.&nbsp;<a href="https://royalsociety.org/news/2012/new-URFs-2012/">Royal Society University Research Fellow 2012</a>.</p>
+
+<h2>News</h2>
+
+<p style="font-size: 12.960000991821289px;"><span style="font-size: larger;">1. Our paper&nbsp;</span><em style="caret-color: rgb(51, 51, 51); color: rgb(51, 51, 51);"><a href="https://www.pnas.org/content/early/2020/05/08/1907377117"><span style="font-size: larger;">On instabilities of deep learning in image reconstruction and the potential costs of AI</span></a></em><span style="font-size: larger;"><em style="caret-color: rgb(51, 51, 51); color: rgb(51, 51, 51);">&nbsp;</em>is now published in </span><a href="https://www.pnas.org"><span style="font-size: larger;">Proc. Natl. Acad. Sci.</span></a><span style="font-size: larger;"> Here is some of the press coverage:  
+<em><a href="https://www.cam.ac.uk/research/news/ai-techniques-in-medical-imaging-may-lead-to-incorrect-diagnoses">Cambridge University News, </a> &nbsp;</em> 
+<em><a href="https://physicsworld.com/a/ai-reconstructed-medical-images-cant-be-trusted/"> Physics World, </a> &nbsp;</em> 
+<em><a href="https://www.eurekalert.org/pub_releases/2020-05/uoc-ati051220.php"> EurekAlert, </a> &nbsp;</em> 
+<em><a href="https://www.theregister.co.uk/2020/05/13/ai_medical_scans/"> The Register, </a> &nbsp;</em> 
+<em><a href="https://www.dotmed.com/news/story/51195"> Health Care Business, </a> &nbsp;</em> 
+<em><a href="https://www.radiologybusiness.com/topics/artificial-intelligence/artificial-intelligence-imaging-reconstruction-diagnosis?utm_source=newsletter&utm_medium=rb_news"> Radiology Business, </a> &nbsp;</em>
+<em><a href="https://www.sciencedaily.com/releases/2020/05/200512134541.htm"> Science Daily, </a> &nbsp;</em> 
+<em><a href="https://www.psychologytoday.com/za/blog/the-future-brain/202005/instability-phenomenon-discovered-in-ai-image-reconstruction"> Psychology Today, </a> &nbsp;</em>                                                   
+<em><a href="https://www.governmentcomputing.com/health/digital-disruptions/medical-imaging-ai-techniques"> Government Computing, </a> &nbsp;</em> 
+<em><a href="https://www.diagnosticimaging.com/article/ai-based-image-reconstruction-techniques-could-lead-misdiagnosis"> Diagnostic Imaging, </a> &nbsp;</em> 
+<em><a href="https://www.news-medical.net/news/20200512/AI-techniques-in-medical-imaging-may-lead-to-false-positives-and-false-negatives.aspx"> News Medical, </a> &nbsp;</em> 
+<em><a href="https://www.pressreleasepoint.com/ai-techniques-medical-imaging-may-lead-incorrect-diagnoses"> Press Release Point, </a> &nbsp;</em> 
+<em><a href="https://techxplore.com/news/2020-05-ai-techniques-medical-imaging-incorrect.html"> Tech Xplore, </a> &nbsp;</em> 
+<em><a href="https://www.auntminnie.com/index.aspx?sec=log&itemID=129018"> Aunt Minnie, </a> &nbsp;</em> 
+<em><a href="https://www.myscience.uk/news/2020/ai_techniques_in_medical_imaging_may_lead_to_incorrect_diagnoses-2020-cambridge"> My Science, </a> &nbsp;</em>
+<em><a href="https://digit.fyi/deep-learning-technology-could-be-leading-to-medical-misdiagnosis/"> Digit, </a> &nbsp;</em>
+<em><a href="https://www.thetalkingmachines.com/article/instabilities-deep-learning-image-reconstruction-and-potential-costs-ai"> The Talking Machines, </a> &nbsp;</em>
+<em><a href="https://mc.ai/artificial-intelligence-based-imaging-reconstruction-may-lead-to-incorrect-diagnoses-experts-caution-radiology-business/"> MC.AI, </a> &nbsp;</em> 
+<em><a href="https://ramaonhealthcare.com/new-research-provides-a-sobering-reality-check-to-ai-optimists/"> Rama on Healthcare, </a> &nbsp;</em> 
+<em><a href="https://news8plus.com/ai-strategies-in-medical-imaging-might-result-in-incorrect-diagnoses/"> News8PLus, </a> &nbsp;</em> 
+<em><a href="http://www.genethique.org/fr/reconstruction-dimages-medicales-grace-lia-des-erreurs-craindre-73440.html#.XsUody-ZPOQ"> Genethique, </a> &nbsp;</em> 
+<em><a href="https://healthcare-in-europe.com/en/news/ai-in-imaging-not-as-reliable-as-you-d-think.html"> Healthcare in Europe, </a> &nbsp;</em> 
+<em><a href="https://www.auntminnieeurope.com/index.aspx?sec=ser&sub=def&pag=dis&ItemID=618780"> AuntminnieEurope, </a> &nbsp;</em> 
+<em><a href="https://www.newsbreak.com/district-of-columbia/washington/news/0P5dYKuT/ai-techniques-in-medical-imaging-may-lead-to-incorrect-diagnoses"> Newsbreak, </a> &nbsp;</em> 
+<em><a href="https://aidevelopmenthub.com/artificial-intelligence-based-imaging-reconstruction-may-lead-to-incorrect-diagnoses-experts-caution/"> AI Development Hub, </a> &nbsp;</em> 
+<em><a href="https://www.firstwordmedtech.com/node/1032000"> FirstWord MedTech, </a> &nbsp;</em> 
+<em><a href="https://aidaily.co.uk/articles/medical-imaging-with-ai-not-as-reliable-as-we-think"> AI Daily. </a> &nbsp;</em> 
+</span></p> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p style="font-size: 12.960000991821289px;"><span style="font-size: larger;">2. Our paper&nbsp;</span><em style="caret-color: rgb(51, 51, 51); color: rgb(51, 51, 51);"><a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.250201"><span style="font-size: larger;">How to compute spectra with error control</span></a></em><span style="font-size: larger;"><em style="caret-color: rgb(51, 51, 51); color: rgb(51, 51, 51);">&nbsp;</em>is on the cover of the last June edition of </span><a href="https://journals.aps.org/prl/issues/122/25"><span style="font-size: larger;">Physical Review Letters</span></a><span style="font-size: larger;">.</span></p>
+<p style="font-size: 12.960000991821289px;"><span style="font-size: larger;">3. Our book &quot;Compressive Imaging&quot; (with B. Adcock) is coming soon on&nbsp;</span><a href="http://www.cambridge.org/"><span style="font-size: larger;">Cambridge University Press</span></a><span style="font-size: larger;">.</span></p>
+<p style="font-size: 12.960000991821289px;"><span style="font-size: larger;">4. </span><a href="http://www.nasonline.org/programs/nas-colloquia/completed_colloquia/science-of-deep-learning.html"><span style="font-size: larger;">The Sackler Colloquium at the US National Academy of Sciences: &quot;The Science of deep learning&quot;</span></a><span style="font-size: larger;">. Watch the presentation </span><a href="https://www.youtube.com/watch?v=PzxWtEk8gXQ"><span style="font-size: larger;">&quot;On instabilities in deep learning - Does AI come at a cost?&quot;</span></a><span style="font-size: larger;">&nbsp;</span></p>
+<p style="font-size: 12.960000991821289px;"><span style="font-size: larger;">5.&nbsp;</span><a href="https://sinews.siam.org/Details-Page/from-global-to-local-getting-more-from-compressed-sensing"><span style="font-size: larger;">SIAM News</span></a><span style="font-size: larger;">&nbsp;has our work on the&nbsp;</span><a href="http://epubs.siam.org/doi/pdf/10.1137/15M1043972"><span style="font-size: larger;">Restricted Isometry Property in Levels</span></a><span style="font-size: larger;">&nbsp;in compressed sensing on the front page of the October edition:&nbsp;</span><span style="font-size: small;"><em><span style="font-size: larger;"><em><span style="font-size: small;"><span style="font-size: larger;"><a href="https://sinews.siam.org/Details-Page/from-global-to-local-getting-more-from-compressed-sensing">From Global to Local: Getting More from Compressed Sensing</a>.</span></span></em></span></em></span></p>
+<p style="font-size: 12.960000991821289px;"><span style="font-size: larger;">6. Our new&nbsp;</span><a href="http://www.nature.com/articles/srep27776"><span style="font-size: larger;">Nature, Sci. Rep.</span></a><span style="font-size: larger;">&nbsp;paper&nbsp;</span><span style="font-size: small;"><i><a href="http://www.nature.com/articles/srep27776"><span style="font-size: larger;"><em>Continuous compressed sensing of inelastic and quasielastic Helium Atom Scattering spectra</em></span></a></i></span><span style="font-size: larger;"><i>&nbsp;</i>on continuous/infinite-dimensional compressed sensing in surface scattering is now published. This is the first time compressed sensing is used in Helium Atom Scattering and the first time infinite-dimensional compressed sensing is implemented with real data (see the papers&nbsp;</span><a href="BAACHGSCS_Rev10.pdf"><span style="font-size: larger;"><em>Generalized Sampling and Infinite Dimensional Compressed Sensing</em>&nbsp;</span></a><span style="font-size: larger;">and&nbsp;</span><em><a href="http://arxiv.org/pdf/1302.0561v4.pdf"><span style="font-size: larger;">Breaking the coherence barrier: A new theory for compressed sensing</span></a></em><span style="font-size: larger;">&nbsp;where the theoretical ideas were launched). &nbsp;</span></p>
+<p style="font-size: 12.960000991821289px;"><span style="font-size: larger;">7. Siemens validated in practice, using a modified MRI machine, the asymptotic sparsity, asymptotic incoherence and high resolution concepts introduced by our work (see&nbsp;</span><a href="BreakingCoherenceRevisionFinal.pdf" target="_blank"><span style="font-size: larger;">Breaking the coherence barrier: A new theory for compressed sensing</span></a><span style="font-size: larger;">&nbsp;and also&nbsp;</span><a href="Asymptotic_10a.pdf" target="_blank"><span style="font-size: larger;">On asymptotic structure in compressed sensing</span></a><span style="font-size: larger;">). From their conclusion:</span></p>
+<blockquote style="caret-color: rgb(51, 51, 51); color: rgb(51, 51, 51); font-size: 12.960000991821289px; text-align: justify;"><span style="font-size: larger;">&ldquo;[...] The image resolution has been greatly improved [...]. Current results practically demonstrated that it is possible to break the coherence barrier by increasing the spatial resolution in MR acquisitions. This likewise implies that the full potential of the compressed sensing is unleashed only if asymptotic sparsity and asymptotic incoherence is achieved.&rdquo;</span></blockquote>
+<p style="font-size: 12.960000991821289px;"><span style="font-size: larger;">Their work&nbsp;</span><a href="http://www.healthcare.siemens.com/siemens_hwem-hwem_ssxa_websites-context-root/wcm/idc/siemens_hwem-hwem_ssxa_websites-context-root/wcm/idc/groups/public/@global/@imaging/@mri/documents/download/MRI-ISMRM-2014-ABSTRACT-WANG-2-01412769.pdf" target="_blank"><span style="font-size: larger;">Novel Sampling Strategies for Sparse MR Image Reconstruction</span></a><span style="font-size: larger;">&nbsp;was published in May 2014 in the Proceedings of the International Society for Magnetic Resonance in Medicine.</span></p>
+<div></div></h2>
+
+
+<h2>Students and Post-Docs</h2>
+
+<p> <strong>Phd Students:</strong>  1. Clarice Poon (graduated 2015), 2. Milana Gataric (graduated 2016), 3. Alexander Jones (graduated 2016), 4. Alexander Bastounis (graduated 2018), 5. Vegard Antun (graduated 2020), 6. Matt Colbrook (graduated 2020), 7. Laura Thesing (graduating 2021), 8. Simon Becker (graduating 2021), 9. Nina Gottschling (graduating 2022), 10. Paolo Campodonico (graduating 2023), 11. David Liu (graduating 2023), 12. Luca Gazdag (graduating 2024), 13. Parley Yang (graduating 2024). 
+
+
+<p> <strong>Post-docs:</strong>   1. Jonathan Ben-Artzi ( 2011-2014, PhD: Brown University),  2. Bogdan Roman ( 2013-2016, 2016-2019, PhD: University of Cambridge), 3. Priscilla Canizares (2015-2016, PhD: Autonomous University of Barcelona), 4. Milana Gataric (2015-2016, PhD: University of Cambridge), 5. Francesco Renna (2016-2018, PhD: University of Padova), 6. Alexander Bastounis (2019-2021, PhD: University of Cambridge), 7. Vegard Antun (2020-, PhD: University of Oslo). 
+</a></p>
+
+
+<h2>Teaching</h2>
+
+
+<p><a href="http://www.damtp.cam.ac.uk/research/afha/lectures/Part_II_NumAn/">Part II Numerical Analysis</a>.</p>
+
+<p><a href="../lectures/cs.1.html">Part III course on Compressed Sensing</a>.</p>
+
+<h2>Research Interests</h2>
+
+<p>Functional Analysis (applied), Foundations of Computations, Artificial Intelligence, Compressed Sensing,&nbsp;<span style="font-size: 1em;">Optimisation,&nbsp;</span><span style="font-size: 1em;">Operator/Spectral Theory,&nbsp;</span>Numerical Analysis, Computational Harmonic Analysis,&nbsp;<span style="font-size: 1em;">Mathematical Signal Processing, Sampling Theory, Inverse Problems, Medical Imaging, Geometric     Integration, Operator Algebras</span></p>
+
+<h2>Editor</h2>
+
+
+
+<p><a href="http://rspa.royalsocietypublishing.org/">Proceedings of the Royal Society Series A (2014-2020)</a></p>
+<p><a href="https://www.aimsciences.org/journal/1556-1801">Networks & Heterogeneous Media</a></p>
+
+<h2>Selected Papers<span style="color: rgb(51, 51, 51); font-size: 13px; line-height: 1.45em; text-align: justify;">&nbsp;</span></h2>
+
+<ol>
+		<li>A. C. Hansen, <a href="JAMS_Final_Preprint2.pdf"><em>On the Solvability Complexity Index, the     n-Pseudospectrum and Approximations of Spectra of Operators</em></a>,      <i> <br />
+	          J. Amer. Math. Soc.</i> 24, no. 1, 81-124</li>
+		<li>J. Ben-Artzi, M. Colbrook, A. C. Hansen, O. Nevanlinna, M. Seidel, <a href="http://www.damtp.cam.ac.uk/research/afha/anders/SCI_FINAL.pdf"><i>Computing spectra - On the Solvability Complexity Index&nbsp;hierarchy and towers of algorithms</i></a><em>.</em></li>  
+		<li>V. Antun, F. Renna, C. Poon, B. Adcock, A. C. Hansen,&nbsp;<a href="https://www.pnas.org/content/early/2020/05/08/1907377117"><em>On instabilities of deep learning in image reconstruction and the potential costs of AI</a></em>,&nbsp;<i><br /> Proc. Natl. Acad. Sci. </i> 2020, no. 5, 201907377</li>
+	         <li><em><span style="font-style: normal;">M. Colbrook,&nbsp;</span></em>B. Roman, A. C. Hansen,&nbsp;<em><a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.250201">How to compute spectra with error control</a></em>,&nbsp;<i><br />
+	         Phys. Rev. Lett.</i> 122, 250201 (front cover)</li>
+	         <li>B. Adcock, A. C. Hansen, C. Poon, B. Roman,&nbsp;<em><a href="BreakingCoherenceRevisionFinal.pdf">Breaking the coherence barrier: A new theory for compressed sensing</a>,</em><em> </em><br />
+	         <i>Forum of Mathematics, Sigma&nbsp;</i>5(4):1-84</li>
+	         <li>B. Adcock, A. C. Hansen, <a href="BAACHGSCS_Rev10.pdf"><em>Generalized Sampling and Infinite Dimensional Compressed Sensing</em>,</a> <br />
+	         <i>Found. Comp. Math.&nbsp;</i>16, no. 5, 1263-1323</li>
+	         <li>A. Bastounis, B. Adcock, A. C. Hansen, <em><a href="https://sinews.siam.org/Details-Page/from-global-to-local-getting-more-from-compressed-sensing"><em>From Global to Local: Getting More from Compressed Sensing</em></a>, <br />
+	          SIAM News,&nbsp;50, no. 8&nbsp;October 2017 (front cover)</em></li>
+
+</ol>
+
+<h2>Papers in Chronological Order<span style="color: rgb(51, 51, 51); font-size: 13px; line-height: 1.45em; text-align: justify;">&nbsp;</span></h2>
+
+<ol>
+		
+		<li>V. Antun, M, Colbrook, A. C. Hansen,&nbsp;<a href="http://www.damtp.cam.ac.uk/research/afha/anders/Stable_Accurate_NN_Final.pdf"><em>Can stable and accurate neural networks be computed? - On the barriers of deep learning and Smale's 18th problem.&nbsp;</em></a></li>
+                 <li>S. Becker, A. C. Hansen,&nbsp;<a href="https://arxiv.org/pdf/2010.16347.pdf"><em>Computing solutions of Schrodinger equations on unbounded domains - On the brink of numerical algorithms.&nbsp;</em></a></li>
+         <li>M. Colbrook, A. C. Hansen,&nbsp;<a href="https://arxiv.org/pdf/1908.09592.pdf"><em>The foundations of spectral computations via the Solvability Complexity Index hierarchy: Part I.&nbsp;</em></a></li>
+         <li>N. Gottschling, V. Antun, B. Adcock, A. C. Hansen,&nbsp;<a href="https://arxiv.org/pdf/2001.01258.pdf"><em>The troublesome kernel: why deep learning for inverse problems is typically unstable.&nbsp;</em></a></li>
+		<li>J. Ben-Artzi, M. Colbrook, A. C. Hansen, O. Nevanlinna, M. Seidel, <a href="http://www.damtp.cam.ac.uk/research/afha/anders/SCI_FINAL.pdf"><i>Computing spectra - On the Solvability Complexity Index&nbsp;hierarchy and towers of algorithms</i></a><em>.</em></li>  
+		
+		<li>&nbsp;L. Thesing, V. Antun, A. C. Hansen,&nbsp;<a href="False_Structures_DL.pdf"><em>What do AI algorithms actually learn - On false structures in deep learning.&nbsp;</em></a></li>
+		
+		<li>&nbsp;L. Thesing, A. C. Hansen,&nbsp;<a href="main_Thesing.pdf"><em>Non-uniform recovery guarantees for binary measurements and infinite-dimensional compressed sensing.&nbsp;</em></a></li>  	
+J. Fourier  Anal. Appl.</i> (to appear)</li>
+
+<li>B. Adcock,&nbsp;V. Antun, &nbsp;A. C. Hansen,&nbsp;<a href="https://arxiv.org/abs/1905.00126">Uniform recovery in infinite-dimensional compressed sensing and applications to structured binary sampling</a></li>
+Appl. Comput. Harmon. Anal.</i></li>	
+	
+<li>V. Antun, F. Renna, C. Poon, B. Adcock, A. C. Hansen,&nbsp;<a href="https://www.pnas.org/content/early/2020/05/08/1907377117"><em>On instabilities of deep learning in image reconstruction and the potential costs of AI</a></em>,&nbsp;<i><br /> Proc. Natl. Acad. Sci. </i> 2020, no. 5, 201907377</li>
+	
+		<li>J. Schoormans, G. J. Strijkers, A. C. Hansen, A. J. Nederveen, B. F. Coolen,&nbsp;<i style="border-bottom-color: rgb(187, 187, 187); background-color: rgb(247, 247, 247);"><a href="https://arxiv.org/pdf/1909.01672.pdf" style="border-bottom-color: rgb(187, 187, 187); background-color: rgb(247, 247, 247);">Compressed Sensing MRI with Variable&nbsp;Density Averaging (CS-VDA) Outperforms Full Sampling at Low SNR</a>.</i></li>
+	Phys. Med. Biol. &nbsp;<b><i style="font-weight: normal;"><span style="font-style: normal;">(to appear)</span></i>&nbsp;</b></i></li>
+		<li><em><span style="font-style: normal;">M. Colbrook,&nbsp;</span></em>B. Roman, A. C. Hansen,&nbsp;<em><a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.122.250201">How to compute spectra with error control</a></em>,&nbsp;<i><br />
+	         Phys. Rev. Lett.</i> 122, 250201</li>
+		<li>A. C. Hansen, B. Roman,&nbsp;<em><a href="Springer_Harm_Analysis2019.pdf">On structure and optimisation in computational harmonic analysis - The key aspects in sparse regularisation</a></em>,&nbsp;<i><br />
+	Springer&nbsp;<b><i style="font-weight: normal;"><span style="font-style: normal;">(to appear)</span></i>&nbsp;</b></i></li>
+		<li><em><span style="font-style: normal;">M. Colbrook, A. C. Hansen,&nbsp;</span><a href="InfQR_COLBROOK.pdf" style="font-style: normal;">On the Infinite-dimensional QR Algorithm</a>,</em>&nbsp;<i><br />
+	</i><i><span style="font-style: normal;"><i>Numerische Mathematik</i>&nbsp;</span></i>(to appear)</li>
+		<li>R. Calderbank, A. C. Hansen, L. Thesing, B. Roman&nbsp;<em><a href="Matheon_Springer_Final.pdf" target="_blank">On reconstructions from measurements with binary functions,&nbsp;</a></em>&nbsp;<i><br />
+	</i><i><span style="font-style: normal;"><i>Springer</i>&nbsp;(to appear)</span></i>&nbsp;</li>
+		<li>L. Thesing, A. C. Hansen,&nbsp;<em><a href="STSIP_final.pdf" target="_blank">Linear reconstructions and the analysis of the stable sampling rate</a>,</em>&nbsp;<i><br />
+	</i><i><span style="font-style: normal;"><i>Sampl. Theory Signal Image Process.</i>&nbsp;(to appear)</span></i>&nbsp;</li>
+		<li>A. C. Hansen, L. Thesing,&nbsp;<em><a href="Paper.pdf" target="_blank">On the Stable Sampling rate for binary measurements and wavelet reconstruction</a>,</em>&nbsp;<i><br />
+	Appl. Comput. Harmon. Anal.&nbsp;</i><i><span style="font-style: normal;">(to appear)</span></i>&nbsp;</li>
+		<li>A. Bastounis, B. Adcock, A. C. Hansen, <em><a href="https://sinews.siam.org/Details-Page/from-global-to-local-getting-more-from-compressed-sensing"><em>From Global to Local: Getting More from Compressed Sensing</em></a>, <br />
+	SIAM News,&nbsp;50, no. 8&nbsp;October 2017</em></li>
+		<li>A. C. Hansen, L. Thesing, <em><a href="http://ieeexplore.ieee.org/document/8024449/" target="_blank"><em>Sampling from binary measurements - On Reconstructions from Walsh coefficients,</em></a> </em><strong><em><br />
+	</em></strong><em>IEEE 2017 Int. Conf. on Samp. Theory and Appl.&nbsp;</em>256-260 (2017)</li>
+		<li>A. Bastounis, A. C. Hansen, <a href="RIP_in_Levels.pdf" target="_blank"><em>On the absence of uniform recovery in many real-world applications of compressed sensing and the RIP &amp; nullspace property in levels.</em></a><i><br />
+	SIAM Jour. Imag. Scienc.</i> 10(1):335-371</li>
+		<li>B. Adcock, A. C. Hansen, C. Poon, B. Roman,&nbsp;<em><a href="BreakingCoherenceRevisionFinal.pdf">Breaking the coherence barrier: A new theory for compressed sensing</a>,</em><em> </em><br />
+	<i>Forum of Mathematics, Sigma&nbsp;</i>5(4):1-84</li>
+		<li>A. C. Hansen, O. Nevanlinna,&nbsp;<a href="http://www.damtp.cam.ac.uk/research/afha/anders/Banach_Hansen_Nevanlinna_edit2.pdf"><em>Complexity Issues in Computing Spectra, Pseudospectra and Resolvents</em>,&nbsp;</a><a href="http://Banach_Hansen_Nevanlinna_edit2.pdf" style="font-style: italic;"><br />
+	</a><i>Banach&nbsp;Centre&nbsp;Pub.&nbsp;</i>112:171-194</li>
+		<li>B. Adcock, M. Gataric, A. C. Hansen,&nbsp;<a href="http://arxiv.org/pdf/1411.0300v1.pdf" target="_blank"><em>Density theorems for nonuniform sampling of bandlimited functions using derivatives or bunched&nbsp; measurements,</em></a><em> </em><br />
+	<i>J. Fourier  Anal. Appl.&nbsp;23(6):1311-1347 	</i></li>
+		<li><i>B. Adcock, A. C. Hansen, B. Roman, </i><em><a href="DiscreteFourierHaarNote5.pdf">A note on compressed sensing of structured sparse wavelet coefficients from subsampled Fourier measurements</a></em><i><a href="CS4HAS_Arxiv_2.pdf"><em>,</em></a><br />
+	</i><i><span class="st"><em>IEEE Signal Process. Lett.&nbsp;</em></span></i><i><span class="st"><em>&nbsp;23(5):732 - 736&nbsp;<br />
+	</em></span></i></li>
+		<li><i>A. Jones , A. Tamtogl, I. Calvo-Almazan, A. C. Hansen, </i><i><a href="http://www.nature.com/articles/srep27776"><em>Continuous compressed sensing of inelastic and quasielastic Helium Atom Scattering spectra</em><em>,</em></a><br />
+	</i><i><span class="st"><em>Nature, Sci. Rep.&nbsp;6, Art. num.: 27776 	</em></span></i></li>
+		<li><i>A. Jones , A. Tamtogl, I. Calvo-Almazan, A. C. Hansen, </i><i><a href="http://www.nature.com/article-assets/npg/srep/2016/160615/srep27776/extref/srep27776-s1.pdf"><em>Continuous compressed sensing of inelastic and quasielastic Helium Atom Scattering spectra</em><em> (supplementary material),</em></a><br />
+	</i><i><span class="st"><em>Nature, Sci. Rep.&nbsp;</em></span></i>6, Art. num.: 27776</li>
+		<li><i>J. Ben-Artzi, A. C. Hansen, O. Nevanlinna, M. Seidel, </i><i><a href="http://www.damtp.cam.ac.uk/research/afha/anders/ArXiv_version_CRAS_22.pdf">New barriers in complexity theory: On the Solvability Complexity Index and towers of algorithms</a><em>,</em><br />
+	</i><i><span class="st"><em>C. R. Acad. Sci. Paris S&eacute;r. I Math.</em></span> </i>353, no. 10, 931-936</li>
+		<li><em><span style="font-size: 1em; caret-color: rgb(0, 0, 0);">J. Ben-Artzi, A. C. Hansen, O. Nevanlinna, M. Seidel,&nbsp;</span><a href="http://www.damtp.cam.ac.uk/research/afha/anders/SCI_STOC_Final.pdf" style="font-size: 1em; caret-color: rgb(0, 0, 0);"><em>The Solvability Complexity Index - Computer science and logic meet scientific computing</em></a><em style="font-size: 1em; caret-color: rgb(0, 0, 0);">.</em></em></li>
+		<li><i>B. Adcock, M. Gataric, A. C. Hansen, <a href="Nonuniform1D_proceedings.pdf">Recovering piecewise smooth functions from nonuniform Fourier measuremets</a>,<br />
+	Springer Lect. Notes in Comp. Sci. and Eng. 2015</i></li>
+		<li>A. Bastounis, A. C. Hansen,&nbsp;<em><a href="RandomAndDeterministicCS.pdf" target="_blank"><em>On random and deterministic compressed sensing and the Restricted Isometry Property in Levels,</em></a> </em><strong><em><br />
+	</em></strong><em>IEEE 2015 Int. Conf. on Samp. Theory and Appl.</em></li>
+		<li>B. Adcock, A. C. Hansen, M. Gataric, <em><a href="2DNonuniformSamplingArXiv13May14.pdf">Weighted frames of exponentials and stable recovery of multidimensional functions from nonuniform Fourier samples</a>, </em><i><br />
+	Appl. Comput. Harmon. Anal.&nbsp;</i>42(3):508-535</li>
+		<li>B. Adcock, M. Gataric, A. C. Hansen, <a href="SAMPTA_Milana.pdf" target="_blank"><em>Stable nonuniform sampling with weighted Fourier frames and recovery in arbitrary spaces, </em></a><strong><em><br />
+	</em></strong><em>IEEE 2015 Int. Conf. on Samp. Theory and Appl.</em></li>
+		<li>B. Adcock, A. C. Hansen, A. Jones, <em><a href="1DCoherence_6.pdf">On asymptotic incoherence and its implications for compressed sensing for inverse problems</a>, <br />
+	IEEE Trans. Inf. Theory, </em>62, no. 2, 1020-1032</li>
+	<li>B. Roman, B. Adcock, A. C. Hansen, <a href="Asymptotic_10a.pdf" target="_blank"><em>On asymptotic structure in compressed sensing.</em></a></li>
+		<li>B. Adcock, G. Kutyniok, A. C. Hansen, J. Ma, <a href="SamplingRate_20140228.pdf"><em>Linear Stable Sampling Rate: Optimality of 2D Wavelet Reconstructions from Fourier Measurements</em></a>, <i><br />
+	SIAM J. Math. Anal. </i>47(2), 1196&#8211;1233</li>
+		<li>B. Adcock, A. C. Hansen, <a href="BAACHGSCS_Rev10.pdf"><em>Generalized Sampling and Infinite Dimensional Compressed Sensing</em>,</a> <br />
+	<i>Found. Comp. Math.&nbsp;</i>16, no. 5, 1263-1323</li>
+		<li>B. Adcock, A. C. Hansen, B. Roman <em><a href="Book_chapter19.pdf">The quest for optimal sampling: computationally efficient, structure-exploiting measurements for compressed sensing</a></em>, <i><br />
+	Springer</i><strong><i>,</i></strong> 2015</li>
+	<li><span style="color: rgb(51, 51, 51);">B. Roman, A. Bastounis, B. Adcock, A. C. Hansen, </span><a href="http://www.damtp.cam.ac.uk/research/afha/bogdan/Fundamentals_17.pdf" target="_blank"><em>On fundamentals of models and sampling in compressed sensing.</em></a></li>
+		
+		<li>A. Jones, B. Adcock, A. C. Hansen <a href="dDCoherence_Arxiv.pdf"><em>Analyzing the structure of multidimensional compressed sensing problems through coherence</em></a>.</li>
+
+		<li>B. Adcock, M. Gataric, A. C. Hansen, <a href="1DNonuniformSamplingArxiv.pdf"><em>On stable reconstructions from univariate nonuniform Fourier measurements</em></a>, <i><br />
+	SIAM Jour. Imag. Scienc.</i> 7(3):1690-1723</li>
+		<li>B. Adcock, A. C. Hansen, B. Roman, G. Teschke, <a href="GS_Inverse_BookChpt_AIEP_6.pdf"><em>Generalized sampling: stable reconstructions, inverse problems and  compressed sensing over the continuum</em></a>,<i> <br />
+	Adv. in Imag. and Electr. Phys.</i> vol 182, 187-279, Elsevier, 2014</li>
+		<li>B. Adcock, A. C. Hansen, A. Shadrin, <a href="AdcockHansenShadrin.pdf"><em>A stability barrier for reconstructions from Fourier samples</em></a><i>, <br />
+	SIAM Jour. on Num. Anal.&nbsp;</i>52, no. 1, 125-139</li>
+		<li>B. Adcock, A. C. Hansen, C. Poon, B. Roman, <a href="AHPRSampta13.pdf"><em>Breaking the coherence barrier: asymptotic incoherence and asymptotic sparsity in compressed sensing</em></a>, <i> <br />
+	Proc. of the 10th Int. Conf. on Samp. Theory and Appl., 2013</i></li>
+		<li>B. Adcock, A. C. Hansen, C. Poon, <a href="samptaFinal.pdf"><em>Optimal wavelet reconstructions from Fourier samples via generalized sampling</em></a>, <i> <br />
+	Proc. of the 10th Int. Conf. on Samp. Theory and Appl., 2013</i></li>
+		<li>B. Adcock, A. C. Hansen, C. Poon, <a href="OptimalityFinal.pdf"><em>Beyond Consistent Reconstructions: Optimality and Sharp Bounds for Generalized Sampling, and Application to the Uniform Resampling Problem,</em></a><i> <br />
+	SIAM J. Math. Anal.&nbsp;</i>45, no. 5, 3132-3167</li>
+		<li>B. Adcock, A. C. Hansen, C. Poon, <a href="OptimalWaveletRecons_July2013.pdf"><em>On optimal wavelet reconstructions from Fourier samples: linearity and universality of the stable sampling rate</em></a><i>, <br />
+	Appl. Comput. Harmon. Anal.</i>&nbsp;36, no. 3, 387-415</li>
+		<li>B. Adcock, A. C. Hansen, <a href="BAACHSpecData.pdf"><em>Generalized  sampling and the stable and accurate reconstruction of piecewise  analytic functions from their Fourier coefficients</em></a>,<i> <br />
+	Math. Comp. 84, 237-270 </i></li>
+		<li>B. Adcock, A. C. Hansen, E. Herrholz, G. Teschke, <a href="manuscript_BenAndersEvelynGerd_final.pdf"><em>Generalized Sampling: Extensions to Frames and Inverse and Ill-Posed Problems</em></a>,<i> <br />
+	Inverse Prob.</i> 29, no 1, 015008</li>
+		<li>B. Adcock, A. C. Hansen, <a href="AdcockHansenSampTA.pdf"><em>Reduced Consistency Sampling in Hilbert Spaces</em></a>, <br />
+	<i> Proc. of the 9th Int. Conf. on Samp. Theory and Appl., 2011</i></li>
+		<li>B. Adcock,  A. C. Hansen, <a href="Adcock_Hansen2.pdf"><em>Stable reconstructions in Hilbert spaces and the resolution of the Gibbs phenomenon</em></a>,  <i> <br />
+	Appl. Comput. Harmon. Anal.</i> 32, no. 3, 357-388</li>
+		<li>B. Adcock, A. C. Hansen,  <a href="Adcock_Hansen1.pdf"><em>A Generalized Sampling Theorem  for Stable Reconstructions in Arbitrary Bases</em></a>, <i> <br />
+	J. Fourier  Anal. Appl.</i> 18, no. 4, 685-716</li>
+		<li>A. C. Hansen, <a href="Hansen_Final_JGM_Preprint.pdf"><em>A theoretical framework for     backward error analysis on manifolds</em></a>, <br />
+	<i> J. Geom. Mech.</i>     3, no. 1, 81 - 111</li>
+		<li>A. C. Hansen, <a href="JAMS_Final_Preprint2.pdf"><em>On the Solvability Complexity Index, the     n-Pseudospectrum and Approximations of Spectra of Operators</em></a>,      <i> <br />
+	J. Amer. Math. Soc.</i> 24, no. 1, 81-124</li>
+		<li>A. C. Hansen, J. Strain, <a href="Deferred10.pdf"><em>On the order of deferred correction</em></a>,  <i> <br />
+	Appl. Numer. Math.</i> 61, no. 8, 961-973</li>
+		<li>A. C. Hansen, <a href="Inf_Num_Lin_Alg_Final.pdf"><em>Infinite dimensional     numerical linear algebra; theory and applications</em></a>, <br />
+	<i> Proc. R. Soc. Lond. Ser. A. </i> 466, no. 2124, 3539-3559</li>
+		<li>A. C. Hansen, <a href="JFA_Final.pdf"><em>On the approximation of  spectra of linear operators on Hilbert spaces</em></a>, <i> <br />
+	J. Funct. Anal.</i>  254,  no. 8, 2092--2126</li>
+		<li>A. C. Hansen, J. Strain, <a href="Spectral.pdf"><em>Convergence theory for spectral deferred         correction</em></a>, <i> <br />
+	Preprint, UC Berkeley</i></li>
+</ol>
+
+<h2>Previous Events</h2>
+
+<ol>
+		<li>Invited speaker at&nbsp;<a href="https://www.hcm.uni-bonn.de/events/eventpages/2018/high-dimensions-2018/"><em><span class="subheading">Analysis and Computation in High Dimensions, Hausdorff Institute (Oct. 2018)</span></em></a><em>.</em></li>
+		<li>Invited speaker at&nbsp;<a href="http://www.dagstuhl.de/en/program/calendar/semhp/?semnr=18361"><em><span class="subheading">Measuring the Complexity of Computational Content: From Combinatorial Problems to Analysis, Dagstuhl (Sept. 2018)</span></em></a><em>.</em></li>
+		<li>Invited speaker at&nbsp;the&nbsp;<a href="http://www.mittag-leffler.se/workshop/algebraic-and-geometric-aspects-numerical-methods-differential-equations" style="border-bottom-color: rgb(187, 187, 187); background-color: rgb(247, 247, 247);"><em><span class="subheading">Algebraic and geometric aspects of numerical methods for differential equations,&nbsp;Mittag-Leffler Institute</span></em></a>&nbsp;(July 5 2018)</li>
+		<li>Invited speaker at&nbsp;<a href="http://www.turing-gateway.cam.ac.uk/event/tgmw59/programme">Isaac Newton Institute</a>&nbsp;(May 24 2018)</li>
+		<li>Speaking at the <a href="http://www.mn.uio.no/math/english/research/groups/operator-algebras/events/special-courses/MoI-1-Hansen2018.html">University of Oslo</a> (May 14-16 2018, <a href="../lectures/trends2018/index.html">slides</a>).</li>
+		<li>Speaking at the <em><a href="http://www.maths.manchester.ac.uk/our-research/events/seminars/numerical-analysis-and-scientific-computing/on-computational-barriers-in-optimisation-and-the-paradoxes-of-deep-learning.htm"><em>University of Manchester</em></a> (May 4 2018).</em></li>
+		<li>Invited speaker at&nbsp;<em><em><a href="http://www.birs.ca/events/2018/5-day-workshops/18w5172">&nbsp;Banff Research Station</a></em>&nbsp;(April 25 2018).</em></li>
+		<li>Invited speaker at the&nbsp;<em><a href="https://sites.google.com/site/spoihp/"><em>Institut Henri Poincar&eacute;</em></a>&nbsp;(Feb 12 2018).</em></li>
+		<li>Organizing the program <em><a href="https://www.newton.ac.uk/event/asc">Approximation, sampling and compression in data science</a>, Isaac Newton Institute (Jan-June 2019).</em></li>
+		<li>Organizing the workshop <em><em><a href="https://www.newton.ac.uk/event/asc">Mathematics of data: Structured representations for sensing, approximation and learning</a>, Alan Turing Institute (May 27-May 31, 2019)</em>.</em></li>
+		<li>Speaking at LMU Munich (Jan 31, 2018).</li>
+		<li>Organizing the workshop <em><em><a href="http://www.cs.cf.ac.uk/invprob2/">Inverse Problems Network Meeting 2</a>, Isaac Newton Institute (Nov 23-Nov 24, 2017)</em>.</em></li>
+		<li>Speaking at the University of Warwick (Nov 15, 2017).</li>
+		<li>Invited speaker at <em><em><a href="https://www.newton.ac.uk/event/vmvw02">Generative models, parameter learning and sparsity</a>, Isaac Newton Institute (2017)</em>.</em></li>
+		<li>Plenary speaker at the <a href="http://cca-net.de/cca2017/" target="_blank"><em>Fourteenth International Conference on Computability and Complexity in Analysis (2017).</em></a></li>
+		<li>Plenary speaker at <a href="http://spars2017.lx.it.pt/" target="_blank"><em>SPARS (2017).</em></a></li>
+		<li>Plenary speaker at <a href="https://regularize-in-paris.github.io/"><em><span class="subheading">Structured Regularization for High-Dimensional Data Analysis, </span></em><em>Institut Henri Poincar&eacute; (2017).</em></a></li>
+		<li>Keynote speaker at <a href="https://www.ljll.math.upmc.fr/cohen/FoCM-ATworkshop"><em><span class="subheading">FoCM: </span></em>Approximation Theory Workshop<em> (2017)</em></a><a href="https://regularize-in-paris.github.io/"><em>.</em></a></li>
+		<li>Invited speaker at <a href="http://web.maths.unsw.edu.au/~fkuo/FoCM2017-IBC.html"><em><span class="subheading">FoCM:&nbsp;</span></em>Information-Based Complexity Workshop<em> (2017)</em></a><a href="https://regularize-in-paris.github.io/"><em>.</em></a></li>
+		<li>Invited speaker at <a href="https://www.mfo.de/occasion/1713/www_view"><em><span class="subheading">Multiscale and High-Dimensional Problems, Oberwolfach</span></em><em> (2017)</em></a><a href="https://regularize-in-paris.github.io/"><em>.</em></a></li>
+		<li>Plenary speaker at <a href="http://xqcd2016.math-sciences.org/"><em><span class="subheading">The 14th International workshop on Quantum Chromodynamics (QCD) in extreme conditions (2016)</span></em></a><em>.</em></li>
+		<li>Plenary speaker at <a href="http://www.univie.ac.at/nuhag-php/event_NEW/make.php?event=strobl16"><em><span class="subheading">Strobl16: Time-Frequency Analysis and Related Topics (2016)</span></em></a><em>.</em></li>
+		<li>Plenary speaker at <a href="https://www.cs.cf.ac.uk/spectral/"><em><span class="subheading">Computational and Analytic Problems in Spectral Theory (2016)</span></em></a><em>.</em></li>
+		<li>Invited speaker at <a href="http://www.him.uni-bonn.de/signal-processing-2016/workshop-on-low-complexity-models/"><em><span class="subheading">Low Complexity Models in Signal Processing, Hausdorff Institute (2016)</span></em></a><em>.</em></li>
+		<li>Plenary speaker at <a href="http://www.him.uni-bonn.de/signal-processing-2016/workshop-on-low-complexity-models/"><em><span class="subheading">The Bath/RAL Numerical Analysis Day (2015)</span></em></a><em>.</em></li>
+		<li>Plenary speaker at <a href="http://www.ee.ucl.ac.uk/sahd2014/speakers/speakers.html"><em><span class="subheading">UCL-Duke Workshop on Sensing and Analysis of High-Dimensional Data (2014)</span></em><em>.</em></a></li>
+		<li>Plenary speaker at <a href="http://www.icms.org.uk/workshops/pseudospectra"><em><span class="subheading">Pseudospectra of operators: spectral singularities, semiclassics, pencils and random matrices (2014)</span></em><em>.</em></a></li>
+		<li>Invited speaker at<a href="http://personales.unican.es/beltranc/RNCFoCM14.html"> <em><span class="subheading">FoCM: </span></em>Real Number Complexity Workshop<em> (2014)</em></a><a href="https://regularize-in-paris.github.io/"><em>.</em></a></li>
+		<li>Plenary speaker at <a href="https://sites.google.com/site/itwist14/invited-speakers"><em><span class="subheading">iTWIST'14 (2014)</span></em><em>.</em></a></li>
+		<li>Plenary speaker at <a href="https://fadili.users.greyc.fr/mia/events/fgmia-14/"><em><span class="subheading">French-German Conference on Mathematical Image Analysis, </span></em><em>Institut Henri Poincar&eacute; (2014)</em></a><a href="https://regularize-in-paris.github.io/"><em>.</em></a></li>
+		<li>Invited speaker at<a href="https://math.vanderbilt.edu/dept/conf/iccha5/"> <em><span class="subheading">The 5th International Conference on Computational Harmonic Analysis</span></em><em> (2014)</em></a><a href="https://regularize-in-paris.github.io/"><em>.</em></a></li>
+		<li>Invited speaker at<a href="http://www3.math.tu-berlin.de/numerik/csa2013/index.html"> <em><span class="subheading">Compressed sensing and its Applications</span></em><em> (2013)</em></a><a href="https://regularize-in-paris.github.io/"><em>.</em></a></li>
+		<li>Plenary speaker at <a href="http://www3.math.tu-berlin.de/numerik/srf2012/"><em><span class="subheading">Sparse Representation of Functions: Analytic and Computational Aspects</span></em><em> (2012)</em></a><a href="https://regularize-in-paris.github.io/"><em>.</em></a></li>
+		<li>Plenary speaker at <a href="http://www.small-project.eu/workshop-on-sparsity-localization-and-dictionary-learning.html"><em><span class="subheading">Sparsity, Localization and Dictionary Learning </span></em><em>(2012)</em></a><a href="https://regularize-in-paris.github.io/"><em>.</em></a></li>
+</ol>
+
+
+
+
+
+<h2>Thesis</h2>
+
+<p>A. C. Hansen, <a href="PhD_thesis.pdf"><em>On the approximation of spectra of linear Hilbert space operators</em></a>, PhD Thesis.</p>
+
+<h2>Student Awards</h2>
+
+<ol>
+		<li>Smith-Knight/Rayleigh-Knight Prize 2007, <a href="http://www.damtp.cam.ac.uk/research/afha/anders/Essay"><em>On the approximation of spectra and pseudospectra of linear operators on Hilbert spaces</em></a></li>
+		<li>John Butcher Award 2007 (joint with T. Schmelzer (Oxford)), <a href="SciCADE.pdf"><em>A theoretical framework for backward error analysis on manifolds</em></a>.</li>
+</ol>
+<p></p><!-- Start of pure append -->
+        </div>
+      </div>
+      <ul id="site-info">
+        <li class="copy">
+	  &copy; Applied Functional and Harmonic Analysis, Centre for Mathematical Sciences, Wilberforce Road, Cambridge CB3 0WA.<br/>
+          Page last saved: 11th November 2019.
+          <a href="../contact/index.html">Contact Us</a>
+	</li>
+        <li class="link last">
+	  <a href="http://www.damtp.cam.ac.uk/about/privacy.html">Privacy</a>
+	</li>
+      </ul>
+    </div>
+  </body>
+</html>
